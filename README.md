@@ -1,7 +1,5 @@
 ### Hello World!
 
-- 🔭 I’m currently working on learning Vim keybindings after **always** using emacs.
-- :smile: Pronouns: He/Him/His
 
 <!--
 **benjamindkilleen/benjamindkilleen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
