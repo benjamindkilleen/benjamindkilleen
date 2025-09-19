@@ -89,3 +89,14 @@ CIS 2023 Project. [Link to IPCAI 2024 Surgeons Shoes Paper](https://link.springe
 | ---------------------------------------------------------------- | ------------------------------- | ------- |
 | [vr_surgical_room](https://github.com/PelvisVR/vr_surgical_room) | PelvisVR Unity Client           | Private |
 | [deepdrr_zmq](https://github.com/PelvisVR/deepdrr_zmq)           | DeepDRR ZMQ Server for PelvisVR | Public  |
+
+## X-Pose
+
+2022 AE-CAI paper "Mixed reality interfaces for achieving desired views with robotic X-ray systems." [Link to paper.](https://www.tandfonline.com/doi/abs/10.1080/21681163.2022.2154272)
+
+Does not directly control the Loop-X, but was a precursor to the real-time integrated studies.
+
+| Repository                                               | Description                             | Note    |
+| -------------------------------------------------------- | --------------------------------------- | ------- |
+| [X-Pose-Project](https://github.com/benjamindkilleen/X-Pose-Project) | Unity client for X-Pose project. | Private |
+| [x-pose](https://github.com/benjamindkilleen/x-pose)| DeepDRR ZMQ server for X-Pose project. | Private  |
