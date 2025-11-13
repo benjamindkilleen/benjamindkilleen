@@ -50,7 +50,6 @@ These repositories support real-time integrated studies with the Loop-X robot, v
 | Repository                                                                           | Description                                               | Note                |
 | ------------------------------------------------------------------------------------ | --------------------------------------------------------- | ------------------- |
 | [IPCAI-pelvic-corridors](https://github.com/benjamindkilleen/ipcai-pelvic-corridors) | Implementation for pelvic corridor studies in IPCAI 2023. | Public, standalone. |
-
 | [corridors](https://github.com/benjamindkilleen/corridors) | Main server for integration studies. Contains triangulation, model inference code. Also contains the GUI code for the original IPCAI 2023 paper. | Private |
 | [xeno](https://github.com/benjamindkilleen/xeno) | Voice control client (e.g. laptop in the room) for IPCAI 2023 (`main` branch), 2024 (`patient_model_client_2` branch) papers. | Private |
 | [phelix](https://github.com/benjamindkilleen/phelix) | Used to train the Corridors X-ray model. Relies on [`perphix`](#pelphix) for data format. | Private |
