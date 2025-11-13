@@ -23,8 +23,9 @@ These are complete libraries that are used in multiple projects.
 
 | Repository                                                     | Description                                                     | Note    |
 | -------------------------------------------------------------- | --------------------------------------------------------------- | ------- |
-| [fluorosam](https://github.com/arcadelab/fluorosam)            | Main public codebase for FluoroSAM (in progress).               | Public  |
-| [fluoroseg](https://github.com/arcadelab/fluoroseg)            | Code for reading and using the FluoroSeg dataset (in progress). | Public  |
+| [fluorosam](https://github.com/arcadelab/fluorosam)            | Main public codebase for FluoroSAM.               | Public  |
+| [fluoroseg](https://github.com/arcadelab/fluoroseg)            | Code for reading and using the FluoroSeg dataset. | Public  |
+| [fluoroseg data](https://huggingface.co/datasets/benjamindkilleen/fluoroseg) | Huggingface Dataset download. | Public |
 | [nmdid-utils](https://github.com/benjamindkilleen/nmdid-utils) | Utilities for processing NMDID CT data.                         | Public  |
 | [prephix](https://github.com/benjamindkilleen/prephix)         | Simulation and training code for FluoroSAM.                     | Private |
 | [nmdid-arcade](https://github.com/arcadelab/nmdid-arcade)      | Original implementation for NMDID processing.                   | Private |
