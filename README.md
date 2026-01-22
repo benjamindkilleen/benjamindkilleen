@@ -27,8 +27,9 @@ These are complete libraries that are used in multiple projects.
 | [fluoroseg](https://github.com/arcadelab/fluoroseg)            | Code for reading and using the FluoroSeg dataset. | Public  |
 | [fluoroseg data](https://huggingface.co/datasets/benjamindkilleen/fluoroseg) | Huggingface Dataset download. | Public |
 | [nmdid-utils](https://github.com/benjamindkilleen/nmdid-utils) | Utilities for processing NMDID CT data.                         | Public  |
-| [prephix](https://github.com/benjamindkilleen/prephix)         | Simulation and training code for FluoroSAM.                     | Private |
+| [prephix](https://github.com/benjamindkilleen/prephix)         | FluoroSeg simulation code and FluoroSAM training code.                     | Private |
 | [nmdid-arcade](https://github.com/arcadelab/nmdid-arcade)      | Original implementation for NMDID processing.                   | Private |
+| [mmdetection-fs](https://github.com/benjamindkilleen/mmdetection.fs) | Instance segmentation model training using the FluoroSeg dataset (used to pre-train Swin image encoder for FluoroSAM). |
 
 ## Pelphix
 
